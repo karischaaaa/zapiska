@@ -56,7 +56,7 @@
           <field fieldType="field" key="|Document|Префикс_регномера" name= "Префикс регномера" valueType="text" isValue="true" edit-name="prefix" edit-autocomplete="Prefix"/>
         </column>
         <column>
-          <field fieldType="field" key="|Document|Число_регномера" name="&quot Число регномера &quot" valueType="text" isValue="true" edit-name="regnum" edit-disabled="true" />
+          <field fieldType="field" key="|Document|Число_регномера" name="Число регномера" valueType="text" isValue="true" edit-name="regnum" edit-disabled="true" />
         </column>
         <column>
           <field fieldType="field" key="|Document|Суффикс_регномера" name="Суффикс регномера" valueType="text" isValue="true" edit-name="Suffix" edit-autocomplete="Suffix"/>
@@ -129,3 +129,4 @@
       </variable>
     </variables>
 </edit>
+
